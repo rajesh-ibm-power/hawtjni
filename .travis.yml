@@ -1,4 +1,5 @@
 language: java
+
 jobs:
   include:
     - arch: amd64
